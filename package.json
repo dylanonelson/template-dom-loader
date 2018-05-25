@@ -1,6 +1,6 @@
 {
   "name": "template-dom-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "template dom loader for webpack",
   "main": "index.js",
   "author": "Dylan Nelson",
