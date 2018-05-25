@@ -11,7 +11,7 @@
 ```
 ```javascript
 // component.js
-import tpl from './component.html.tpl;
+import tpl from './component.html.tpl';
 tpl.tagName === 'TEMPLATE'; // => true
 tpl.content instanceof DocumentFragment; // => true
 ```
